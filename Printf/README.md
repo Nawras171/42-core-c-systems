@@ -1,4 +1,4 @@
-*This activity has been created as part of the 42 curriculum by ndalqamo.*
+*This activity has been created as part of the 42 curriculum by naldalqa.*
 
 # ft_printf
 
